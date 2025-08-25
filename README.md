@@ -14,9 +14,9 @@ This project analyzes satellite images to detect land vs water areas for environ
 
 ## Repo Structure
 SatelliteImageAnalysis/
-│
-├── images/                  # images for testing
-├── Java/
-│   └── LandDetection.java   # Main Java program for land/water detection
-├── README.md                
-└── LICENSE 
+
+- images/                  # images for testing
+- Java/LandDetection.java #Main java program for land/water detection
+- README.md
+- LICENSE
+
